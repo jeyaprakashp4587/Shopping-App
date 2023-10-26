@@ -1,0 +1,98 @@
+{
+  "Homelist":[
+    {
+        "id": 1,
+        "name": "Puffs",
+        "img": "https://i.ibb.co/jfwvFg8/top-view-puff-pies-with-meat-rice-plate-141793-4108.jpg",
+        "category": "Chicken Puffs,Veg Puffs",
+        "rate": "$450",
+        "weight": "1kg | Non-veg",
+        "chef": "Harish (chef)"
+    },
+    {
+        "id": 2,
+        "name": "Water Melon",
+        "img": "https://i.ibb.co/kxBBhtX/cold-watermelon-smoothie-dark-background-1150-41818.jpg",
+        "category": "Juice,Drinks",
+        "rate": "$300",
+        "chef": "Mohammad (chef)",
+        "weight": "500ml"
+    },
+    {
+        "id": 3,
+        "name": "Briyani",
+        "img": "https://i.ibb.co/ccYYpBJ/gourmet-chicken-biryani-with-steamed-basmati-rice-generated-by-ai-188544-13480.jpg",
+        "category": "Veg Briyani, Non-Veg Briyani",
+        "rate": "$600",
+        "weight": "1kg | Non-veg",
+        "chef": "Ramu (chef)"
+    },
+    {
+      "id": 4,
+      "name": "Noodles",
+      "img": "https://i.ibb.co/KWT76B3/top-view-delicious-noodles-concept-23-2148773775.jpg" ,
+      "category": "Noodles,Spring Roles",
+      "rate": "$200",
+        "weight": "1kg | Non-veg",
+        "chef": "Vijay (chef)"
+  }
+  ],
+  "Footlist":[
+    {
+      "id":1,
+      "img":"https://i.ibb.co/f4HzhFS/breakfast.png",
+      "name": "brakefast"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/Jd7Bcct/lunch.png",
+      "name": "Lunch"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/VmBq5hk/dinner.png",
+      "name": "Dinner"
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/5Tj79bz/candies.png",
+      "name": "Snacks"
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/VmBq5hk/dinner.png",
+      "name": "Juice"
+    }
+  ],
+  "restaurant":[
+    {
+      "id":1,
+      "img": "https://i.ibb.co/2gfntFj/dinner-table-luxury-hotel.jpg",
+      "name":"Hot Spot",
+      "Address": "Palyamkottai,Tirunelveli",
+      "place": "Chennai"
+    },
+    {
+      "id":2,
+      "img": "https://i.ibb.co/sK1Gc1X/restaurant-hall-with-red-brick-walls-wooden-tables-pipes-ceiling.jpg",
+      "name": "Royal Peace",
+      "Address": "Town,North Car Street",
+      "place": "Madurai"
+    },
+    {
+      "id":3,
+      "img":"https://i.ibb.co/cQtdpLC/interior-shot-cafe-with-chairs-near-bar-with-wooden-tables.jpg",
+      "name": "Peace Food",
+       "Address": "Vannarpettai,Tirunelveli",
+       "place": "Tirunelveli"
+    },
+    {
+      "id":4,
+      "img": "https://i.ibb.co/8ddrrnh/restaurant-interior.jpg",
+      "name": "Jonathan Rest",
+      "Address":"Thalaiyuthu,Tirunelveli",
+      "place": "Erode"
+    }
+  ]
+}
+

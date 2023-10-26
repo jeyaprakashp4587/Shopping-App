@@ -1,0 +1,126 @@
+{
+    "search": [
+      {
+        "id": 1,
+        "dish": "briyani",
+        "name": "Pakisthan-meal",
+        "img":"https://i.ibb.co/hXtY1hW/high-angle-pakistan-meal-composition.jpg",
+        "rate": "$290",
+        "weight": "1kg | Non-veg",
+        "chef": "Suresh (chef)"
+      },
+      {
+        "id": 2,
+        "dish": "briyani",
+        "name": "Turkish-Briyani",
+        "img": "https://i.ibb.co/44c08BJ/turkish-chicken-kebab-with-mashed-aubergine-garnished-with-tomato-sauce.jpg",
+        "rate": "$300",
+        "weight": "1kg | Non-veg",
+        "chef": "Saron (chef)"
+      },
+      {
+        "id": 3,
+        "dish": "briyani",
+        "name": "Hot-briyani",
+        "img": "https://i.ibb.co/z2hF58v/3813.jpg",
+        "rate": "$500",
+        "weight": "1kg | Non-veg",
+        "chef": "Kamalesh (chef)"
+      },
+      {
+        "id": 4,
+        "dish": "briyani",
+        "name": "Plate-briyani",
+        "img": "https://i.ibb.co/tcdq1gZ/3812.jpg",
+        "rate": "$280",
+        "weight": "1kg | Non-veg",
+        "chef": "Gopi (chef)"
+      },
+      {
+        "id": 5,
+        "dish": "briyani",
+        "name": "Chicken-briyani",
+        "img": "https://i.ibb.co/pRfz7N4/39093.jpg",
+        "rate": "$450",
+        "weight": "1kg | Non-veg",
+        "chef": "Selva (chef)"
+      },
+      {
+        "id": 6,
+        "dish": "briyani",
+        "name": "Mutton-briyani",
+        "img": "https://i.ibb.co/3TxtmG4/3814.jpg" ,
+        "rate": "$300",
+        "weight": "1kg | Non-veg",
+        "chef": "Krishnan (chef)"
+      }
+      ,
+      {
+        "id": 7,
+        "dish": "puffs",
+        "name": "Khachapuri-puffs",
+        "img": "https://i.ibb.co/n7Rx8HM/front-view-penovani-khachapuri-wood-board-dark-red-table.jpg",
+        "rate": "$300",
+        "weight": "1kg | Non-veg",
+        "chef": "Krishnan (chef)"
+      },
+      {
+        "id": 8,
+        "dish": "puffs",
+        "name": "Veg-puffs",
+        "img": "https://i.ibb.co/wQ13jcj/bottom-view-penovani-khachapuri-wood-board-dark-red-table-georgian-cuisine.jpg" ,
+        "rate": "$250",
+        "weight": "1kg | Non-veg",
+        "chef": "Krishnan (chef)"
+      },
+      {
+        "id": 9,
+        "dish": "puffs",
+        "name": "Sesame-Seeds",
+        "img": "https://i.ibb.co/WfcwgZY/crispy-khachapuri-with-sesame-seeds.jpg" ,
+        "rate": "$300",
+        "weight": "1kg | Non-veg",
+        "chef": "Krishnan (chef)"
+      }
+      ,
+      {
+        "id": 10,
+        "dish": "noodles",
+        "name": "Pasta-Noodles",
+        "img": "https://i.ibb.co/MZsxSwn/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai.jpg" ,
+        "rate": "$210",
+        "weight": "1kg | Non-veg",
+        "chef": "Krishnan (chef)"
+      },
+      {
+        "id": 11,
+        "dish": "noodles",
+        "name": "Seafoof-Noodles",
+        "img": "https://i.ibb.co/wdqPvQ9/spaghetti-seafood-with-tomato-sauce-decorated-with-beautiful-ingredients.jpg",
+        "rate": "$350",
+        "weight": "1kg | Non-veg",
+        "chef": "Krishnan (chef)"
+      },
+      {
+        "id": 13,
+        "dish": "juice",
+        "name": "Plums-juice",
+        "img": "https://i.ibb.co/kQkXwNM/fresh-plums-juice-white-wooden-surface.jpg",
+        "rate": "$100",
+        "weight": "100ml",
+        "chef": "Krishnan (chef)"
+      }
+      ,
+      {
+        "id": 14,
+        "dish": "juice",
+        "name": "Orange-Juice",
+        "img": "https://i.ibb.co/3S7QwSC/fresh-orange-juice-glass-dark-background.jpg" ,
+        "rate": "$90",
+        "weight": "100ml",
+        "chef": "Krishnan (chef)"
+      }
+
+    ]
+  }
+  
